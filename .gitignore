@@ -1,0 +1,14 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python/cache files, in case scripts are added later
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+.env.*
+.venv/
