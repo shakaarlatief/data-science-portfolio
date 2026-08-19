@@ -4,7 +4,9 @@ This repository provides an overview of my applied work across data science, mac
 
 The projects combine statistical and machine-learning foundations with practical implementation, software engineering, experimentation, reproducibility, and increasingly the systems required to move data and models toward production use.
 
-## Featured projects
+The repositories below are selected public projects. Additional private and in-development work is not listed here.
+
+## Featured public projects
 
 ### Production Data and ML Systems
 
